@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gebeyehu08
 - 👀 I’m interested in python Machine learning and data science
-- 🌱 I’m currently working on Dowell company
+
   
 
 <!---
