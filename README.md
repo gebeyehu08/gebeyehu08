@@ -1,44 +1,23 @@
 - 👋 Hi, I’m @gebeyehu08
 - 👀 I’m interested in python Machine learning and data science
-- 🌱 I’m currently working on Dowell indian company
-- 📫 How to reach me ...
+- 🌱 I’m currently working on Dowell company
+  
 
 <!---
 gebeyehu08/gebeyehu08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center" dir="auto">
-<table align="center">
-    <tbody><tr>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/python.jpeg"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/python.jpeg" width="65px" style="max-width: 100%;"></a>
-            <br> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/jupyter.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/jupyter.png" width="65px" style="max-width: 100%;"></a>
-            <br> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/tensorflow.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/tensorflow.png" width="65px" style="max-width: 100%;"></a>
-            <br> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/pytorch.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/pytorch.png" width="65px" style="max-width: 100%;"></a>
-            <br> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/scikitlearn.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/scikitlearn.png" width="65px" style="max-width: 100%;"></a>
-            <br> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/fastapi.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/fastapi.png" width="65px" style="max-width: 100%;"></a>
-            <br> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <a target="_blank" rel="noopener noreferrer" href="/ashishpatel26/ashishpatel26/blob/main/assets/icons/docker.png"><img src="/ashishpatel26/ashishpatel26/raw/main/assets/icons/docker.png" width="65px" style="max-width: 100%;"></a>
-            <br> Docker
-        </td>
-    </tr>
-</tbody></table>
-</div>
+
+  <a href="https://www.python.org" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> 
+  </a><a href="https://getbootstrap.com" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">        </a><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+  <a href="https://www.linux.org/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> 
+  </a><a href="https://postman.com" rel="nofollow">  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> 
+  </a>
+
+
+<img align="center" src="https://camo.githubusercontent.com/2c2b2675262da1f4c98d6b645981e829bd7a600eb3bfa385fc078737c6c55f8c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756b6572656d26" alt="mukerem" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mukerem&amp;" style="max-width: 100%;">
+
